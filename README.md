@@ -1,2 +1,4 @@
 # mvd_kerala_ai
-Map showing new AI camera locations of Motor Vehicle Department, kerala.
+
+
+A jupyter notebook containing map of new AI camera locations of Motor Vehicle Department, kerala

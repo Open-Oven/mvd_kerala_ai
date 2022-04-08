@@ -1,0 +1,710 @@
+Unique_id,District,Location,Lat,Long,Type
+KL-KEL-KMVD-50-AICS-01-1,Thiruvananthapuram,Parassala,8.3150151,77.1287226,AI Camera
+KL-KEL-KMVD-50-AICS-01-2,Thiruvananthapuram,Pambukala,8.3254417,77.0641614,AI Camera
+KL-KEL-KMVD-50-AICS-01-3,Thiruvananthapuram,Kovalam Jn,8.399849392,76.98087696,AI Camera
+KL-KEL-KMVD-50-AICS-01-4,Thiruvananthapuram,Neyyattinkara_2,8.4078907,77.0794932,AI Camera
+KL-KEL-KMVD-50-AICS-01-5,Thiruvananthapuram,Neyyattinkara_1,8.4080435,77.0792108,AI Camera
+KL-KEL-KMVD-50-AICS-01-6,Thiruvananthapuram,Thozhukkal,8.4167193,77.0803191,AI Camera
+KL-KEL-KMVD-50-AICS-01-7,Thiruvananthapuram,Balaramapuram_1,8.4263583,77.038985,AI Camera
+KL-KEL-KMVD-50-AICS-01-8,Thiruvananthapuram,Balaramapuram_2,8.427158591,77.03957643,AI Camera
+KL-KEL-KMVD-50-AICS-01-9,Thiruvananthapuram,Pallichal Jn,8.443115896,77.01732215,AI Camera
+KL-KEL-KMVD-50-AICS-01-10,Thiruvananthapuram,Thiruvallom,8.4431921,76.9524799,AI Camera
+KL-KEL-KMVD-50-AICS-01-11,Thiruvananthapuram,Kumarichantha,8.45163636,76.9470077,AI Camera
+KL-KEL-KMVD-50-AICS-01-12,Thiruvananthapuram,Vellayani Jn,8.4590336,76.9973992,AI Camera
+KL-KEL-KMVD-50-AICS-01-13,Thiruvananthapuram,Vellayani Jn_2,8.459099405,76.99749157,AI Camera
+KL-KEL-KMVD-50-AICS-01-14,Thiruvananthapuram,Manacaud Jn,8.4719437,76.9481288,AI Camera
+KL-KEL-KMVD-50-AICS-01-15,Thiruvananthapuram,Eenjakkal_1,8.480571432,76.93514396,AI Camera
+KL-KEL-KMVD-50-AICS-01-16,Thiruvananthapuram,Eenjakkal_2,8.480781673,76.93591442,AI Camera
+KL-KEL-KMVD-50-AICS-01-17,Thiruvananthapuram,"Killipalam, near PRS hopspital",8.481339441,76.9595876,AI Camera
+KL-KEL-KMVD-50-AICS-01-18,Thiruvananthapuram,Killipalam,8.481502261,76.95821229,AI Camera
+KL-KEL-KMVD-50-AICS-01-19,Thiruvananthapuram,Power house road,8.484994424,76.95298903,AI Camera
+KL-KEL-KMVD-50-AICS-01-20,Thiruvananthapuram,East fort stretch,8.48596404,76.94781505,AI Camera
+KL-KEL-KMVD-50-AICS-01-21,Thiruvananthapuram,Thambanoor,8.4870139,76.9521384,AI Camera
+KL-KEL-KMVD-50-AICS-01-22,Thiruvananthapuram,Malayinkeezh,8.4875062,77.0364776,AI Camera
+KL-KEL-KMVD-50-AICS-01-23,Thiruvananthapuram,Kaithamukk,8.489562938,76.94019489,AI Camera
+KL-KEL-KMVD-50-PVDS-01-24,Thiruvananthapuram,MG Road,8.490216194,76.9473004,PVDS
+KL-KEL-KMVD-50-AICS-01-25,Thiruvananthapuram,Poojapura,8.4910375,76.9738924,AI Camera
+KL-KEL-KMVD-50-AICS-01-26,Thiruvananthapuram,All saints,8.494618515,76.9098068,AI Camera
+KL-KEL-KMVD-50-AICS-01-27,Thiruvananthapuram,All saints_2,8.494954755,76.90943129,AI Camera
+KL-KEL-KMVD-50-AICS-01-28,Thiruvananthapuram,Pettah,8.49520478,76.92757811,AI Camera
+KL-KEL-KMVD-50-AICS-01-29,Thiruvananthapuram,Vettukadu,8.4965309,76.8987359,AI Camera
+KL-KEL-KMVD-50-PVDS-01-31,Thiruvananthapuram,Holy Angels Convent road,8.498014727,76.94286201,PVDS
+KL-KEL-KMVD-50-AICS-01-32,Thiruvananthapuram,AKG center,8.500406184,76.94618963,AI Camera
+KL-KEL-KMVD-50-AICS-01-33,Thiruvananthapuram,Mangattukadav,8.5004297,77.0062457,AI Camera
+KL-KEL-KMVD-50-AICS-01-34,Thiruvananthapuram,"Vazhuthacaud, WC jn",8.5004554,76.9582906,AI Camera
+KL-KEL-KMVD-50-AICS-01-35,Thiruvananthapuram,"Palayam, near AKG center",8.500657531,76.94628283,AI Camera
+KL-KEL-KMVD-50-SVDS-01-36,Thiruvananthapuram,Chakka bypass,8.5021486,76.9127634,SVDS
+KL-KEL-KMVD-50-PVDS-01-37,Thiruvananthapuram,Palayam,8.502110568,76.95008822,PVDS
+KL-KEL-KMVD-50-AICS-01-38,Thiruvananthapuram,Kattakada_3,8.5023271,77.0718469,AI Camera
+KL-KEL-KMVD-50-AICS-01-39,Thiruvananthapuram,Edapazhanji Bridge,8.5045791,76.9705438,AI Camera
+KL-KEL-KMVD-50-AICS-01-40,Thiruvananthapuram,Kattakada_1,8.5060175,77.079171,AI Camera
+KL-KEL-KMVD-50-AICS-01-41,Thiruvananthapuram,Kattakada_2,8.5074106,77.0869781,AI Camera
+KL-KEL-KMVD-50-AICS-01-42,Thiruvananthapuram,Kundamankadavu_2,8.5088349,77.0033788,AI Camera
+KL-KEL-KMVD-50-AICS-01-43,Thiruvananthapuram,Kundamankadavu_1,8.509155,77.0048124,AI Camera
+KL-KEL-KMVD-50-AICS-01-44,Thiruvananthapuram,Veli,8.5123626,76.8908583,AI Camera
+KL-KEL-KMVD-50-PVDS-01-45,Thiruvananthapuram,"KIMS Hopspital Jn, Venpalavattam",8.513192199,76.91054508,PVDS
+KL-KEL-KMVD-50-AICS-01-46,Thiruvananthapuram,Venpalavattom near KIMS,8.5140597,76.913645,AI Camera
+KL-KEL-KMVD-50-AICS-01-47,Thiruvananthapuram,"Venpalavattam, Poonthi road",8.5141757,76.9136729,AI Camera
+KL-KEL-KMVD-50-AICS-01-48,Thiruvananthapuram,Vilappilsala,8.5218664,77.0346773,AI Camera
+KL-KEL-KMVD-50-AICS-01-49,Thiruvananthapuram,Pattom,8.5230483,76.9407198,AI Camera
+KL-KEL-KMVD-50-AICS-01-50,Thiruvananthapuram,"Kottamukk,Aakkulam",8.5230868,76.9122663,AI Camera
+KL-KEL-KMVD-50-AICS-01-51,Thiruvananthapuram,"Pulimood Jn, Vattiyoorkav",8.5235036,76.9862784,AI Camera
+KL-KEL-KMVD-50-PVDS-01-52,Thiruvananthapuram,Pattom(PVDS),8.526084221,76.93893425,PVDS
+KL-KEL-KMVD-50-AICS-01-53,Thiruvananthapuram,Kallikkaad,8.5294323,77.1232054,AI Camera
+KL-KEL-KMVD-50-AICS-01-54,Thiruvananthapuram,Ulloor,8.529678,76.9326316,AI Camera
+KL-KEL-KMVD-50-PVDS-01-55,Thiruvananthapuram,Ambalamukk,8.529742424,76.96094949,PVDS
+KL-KEL-KMVD-50-AICS-01-56,Thiruvananthapuram,Poovachal,8.5347751,77.0867638,AI Camera
+KL-KEL-KMVD-50-AICS-01-57,Thiruvananthapuram,Puliyarakonam,8.5354007,77.0161863,AI Camera
+KL-KEL-KMVD-50-SVDS-01-58,Thiruvananthapuram,Bypass near UST Global,8.537797443,76.87918805,SVDS
+KL-KEL-KMVD-50-AICS-01-59,Thiruvananthapuram,"Vazhayila, To Peroorkada",8.5426433,76.9711209,AI Camera
+KL-KEL-KMVD-50-AICS-01-60,Thiruvananthapuram,Nettayam,8.5437866,76.9876427,AI Camera
+KL-KEL-KMVD-50-AICS-01-61,Thiruvananthapuram,"Vazhayila, To Nedumangadu",8.5450854,76.9727058,AI Camera
+KL-KEL-KMVD-50-AICS-01-62,Thiruvananthapuram,Kottamughal_1,8.5521029,76.9423557,AI Camera
+KL-KEL-KMVD-50-AICS-01-63,Thiruvananthapuram,Kottamughal_2,8.5522066,76.9426095,AI Camera
+KL-KEL-KMVD-50-AICS-01-64,Thiruvananthapuram,"Mannanthala, Pothencode road",8.5607153,76.9434491,AI Camera
+KL-KEL-KMVD-50-AICS-01-65,Thiruvananthapuram,"Mannanthala, Peroorkada road",8.5607214,76.9434257,AI Camera
+KL-KEL-KMVD-50-AICS-01-66,Thiruvananthapuram,Paravankunnu Jn.,8.5678039,76.8733965,AI Camera
+KL-KEL-KMVD-50-AICS-01-67,Thiruvananthapuram,"Vettroad, towards Pothencode",8.5824067,76.8638977,AI Camera
+KL-KEL-KMVD-50-AICS-01-68,Thiruvananthapuram,"Vettroad, Pothencode road",8.5844392,76.8704745,AI Camera
+KL-KEL-KMVD-50-AICS-01-69,Thiruvananthapuram,Vattappara_1,8.5928899,76.9525046,AI Camera
+KL-KEL-KMVD-50-AICS-01-70,Thiruvananthapuram,Vattappara,8.5930096,76.9514364,AI Camera
+KL-KEL-KMVD-50-AICS-01-71,Thiruvananthapuram,"Nedumangad, Peroorkada road",8.6006022,76.9959209,AI Camera
+KL-KEL-KMVD-50-AICS-01-72,Thiruvananthapuram,"Nedumangadu, Kulavikkonam",8.6015071,77.0076317,AI Camera
+KL-KEL-KMVD-50-AICS-01-73,Thiruvananthapuram,"Nedumangadu, Ponmudi road",8.6078024,77.0054544,AI Camera
+KL-KEL-KMVD-50-AICS-01-74,Thiruvananthapuram,Nedumangadu,8.614673,76.9977609,AI Camera
+KL-KEL-KMVD-50-AICS-01-75,Thiruvananthapuram,Nedumangadu Vembayam road,8.6161716,76.9898788,AI Camera
+KL-KEL-KMVD-50-AICS-01-76,Thiruvananthapuram,"MC road, Venjaramood",8.6712494,76.9114421,AI Camera
+KL-KEL-KMVD-50-AICS-01-77,Thiruvananthapuram,Thandrampoyka,8.6871302,76.9067379,AI Camera
+KL-KEL-KMVD-50-AICS-01-78,Thiruvananthapuram,"Mama Moonnumukku, Attingal",8.6883583,76.8238267,AI Camera
+KL-KEL-KMVD-50-AICS-01-79,Thiruvananthapuram,"Kizhakkenalumukk, Attingal",8.6951859,76.817494,AI Camera
+KL-KEL-KMVD-50-AICS-01-80,Thiruvananthapuram,"Kacherinada, Attingal Jn",8.6981355,76.8136267,AI Camera
+KL-KEL-KMVD-50-AICS-01-81,Thiruvananthapuram,Alamcode Jn,8.721520048,76.81288954,AI Camera
+KL-KEL-KMVD-50-AICS-01-82,Thiruvananthapuram,Karet,8.7273407,76.8983141,AI Camera
+KL-KEL-KMVD-50-AICS-01-83,Thiruvananthapuram,Varkala Sivagiri roundabout,8.7319773,76.7316021,AI Camera
+KL-KEL-KMVD-50-AICS-01-84,Thiruvananthapuram,Varkala Sivagiri roundabout_2,8.7320087,76.7316126,AI Camera
+KL-KEL-KMVD-50-AICS-01-85,Thiruvananthapuram,"Varkala, railway station road",8.7494784,76.7143884,AI Camera
+KL-KEL-KMVD-50-AICS-01-86,Thiruvananthapuram,"Varkala road, Kallambalam",8.7618969,76.7877894,AI Camera
+KL-KEL-KMVD-50-AICS-01-87,Thiruvananthapuram,Kilimanoor,8.7681143,76.8851514,AI Camera
+KL-KEL-KMVD-50-AICS-01-88,Thiruvananthapuram,Navaikulam_2,8.7961101,76.7691311,AI Camera
+KL-KEL-KMVD-50-AICS-01-89,Thiruvananthapuram,Navaikulam_1,8.7961348,76.7692244,AI Camera
+KL-KEL-KMVD-50-AICS-01-90,Thiruvananthapuram,"Kallambalam, Kilimanoor road",8.7964798,76.7688777,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-02-92,Kollam,"Parippally Jn, towards Paravoor",8.8125148,76.7585943,AI Camera
+KL-KEL-KMVD-50-AICS-02-93,Kollam,"Madathara Jn, Thenmala road",8.8178617,77.0146428,AI Camera
+KL-KEL-KMVD-50-AICS-02-94,Kollam,"Nilamel Jn, Parippally road",8.8236526,76.8811416,AI Camera
+KL-KEL-KMVD-50-AICS-02-95,Kollam,"Hospital Jn, Kadakkal, Kulathupuzha road",8.826195,76.917526,AI Camera
+KL-KEL-KMVD-50-AICS-02-96,Kollam,"Ooranvila, Chathannoor, bus stand Jn",8.8586276,76.7235559,AI Camera
+KL-KEL-KMVD-50-AICS-02-97,Kollam,"Thirumukk Jn, Chathannoor",8.8617743,76.7065132,AI Camera
+KL-KEL-KMVD-50-AICS-02-98,Kollam,"Kottiyam Jn, towards Kollam",8.8659031,76.671286,AI Camera
+KL-KEL-KMVD-50-AICS-02-99,Kollam,"Kottiyam Jn, Kannanalloor road",8.8660198,76.6709043,AI Camera
+KL-KEL-KMVD-50-AICS-02-100,Kollam,Chadayamangalam,8.8736165,76.8695075,AI Camera
+KL-KEL-KMVD-50-AICS-02-101,Kollam,"Oyoor Jn, Poyappally road",8.8747709,76.7738671,AI Camera
+KL-KEL-KMVD-50-AICS-02-102,Kollam,SN College Jn,8.8810515,76.6003846,AI Camera
+KL-KEL-KMVD-50-AICS-02-103,Kollam,"Kollam railway station, Karbala to Chinnakkada road",8.8856396,76.5966519,AI Camera
+KL-KEL-KMVD-50-AICS-02-104,Kollam,"Kannanalloor Jn, Kundara road",8.8949073,76.6819167,AI Camera
+KL-KEL-KMVD-50-AICS-02-105,Kollam,"Ayoor, Trivandrum road",8.8955354,76.8620022,AI Camera
+KL-KEL-KMVD-50-AICS-02-106,Kollam,"Mukhathala, Kollam road",8.8972983,76.6666695,AI Camera
+KL-KEL-KMVD-50-AICS-02-107,Kollam,Palakadavu,8.9024596,76.6204293,AI Camera
+KL-KEL-KMVD-50-AICS-02-108,Kollam,"Kulathooppuzha Jn, Madathara road",8.9038094,77.0574798,AI Camera
+KL-KEL-KMVD-50-AICS-02-109,Kollam,"Ramankulangara, Kollam road",8.9047572,76.5622133,AI Camera
+KL-KEL-KMVD-50-AICS-02-110,Kollam,"Pooyappally, Oyoor road",8.9065533,76.7623571,AI Camera
+KL-KEL-KMVD-50-SVDS-02-111,Kollam,Mangad,8.91462187,76.61587257,SVDS
+KL-KEL-KMVD-50-AICS-02-112,Kollam,"Karikkod, Kundara road",8.9168397,76.6325294,AI Camera
+KL-KEL-KMVD-50-SVDS-02-113,Kollam,Kureepuzha,8.922098891,76.58296455,SVDS
+KL-KEL-KMVD-50-AICS-02-114,Kollam,"Vadakke Jn, Nedumoncavu",8.924849,76.7361317,AI Camera
+KL-KEL-KMVD-50-AICS-02-115,Kollam,"Anchal Jn, Kulathupuzha road",8.9274682,76.9133146,AI Camera
+KL-KEL-KMVD-50-AICS-02-116,Kollam,Sakthikulangara,8.9296026,76.5495661,AI Camera
+KL-KEL-KMVD-50-AICS-02-117,Kollam,Pavoor Vayal Jn,8.9367684,76.613282,AI Camera
+KL-KEL-KMVD-50-AICS-02-118,Kollam,Vettuthara Jn,8.9418012,76.5391648,AI Camera
+KL-KEL-KMVD-50-AICS-02-119,Kollam,Odanavattom,8.9450739,76.7718315,AI Camera
+KL-KEL-KMVD-50-AICS-02-120,Kollam,"Mukkada, Kundara road",8.9592251,76.6767568,AI Camera
+KL-KEL-KMVD-50-AICS-02-121,Kollam,Thenmala Jn Chenkotta road,8.967804954,77.07041077,AI Camera
+KL-KEL-KMVD-50-AICS-02-122,Kollam,"Ezhukone, Kottarakkara road",8.9806723,76.7213028,AI Camera
+KL-KEL-KMVD-50-AICS-02-123,Kollam,"Karikkam, Kottarakkara road",8.992999,76.7920006,AI Camera
+KL-KEL-KMVD-50-AICS-02-124,Kollam,"Titanium Jn, Sasthamkotta road",9.000891,76.5353628,AI Camera
+KL-KEL-KMVD-50-AICS-02-125,Kollam,Randu road Jn,9.0020333,76.6628836,AI Camera
+KL-KEL-KMVD-50-AICS-02-126,Kollam,"Market Jn Kottarakkara, Puthoor road",9.0063966,76.7721014,AI Camera
+KL-KEL-KMVD-50-AICS-02-127,Kollam,"Punaloor, Kottarakkara road",9.0176838,76.9255281,AI Camera
+KL-KEL-KMVD-50-AICS-02-128,Kollam,Karalimukk Jn,9.0243105,76.606057,AI Camera
+KL-KEL-KMVD-50-AICS-02-129,Kollam,"Kunnikode, Kottarakkara road",9.0262467,76.8508431,AI Camera
+KL-KEL-KMVD-50-AICS-02-130,Kollam,"Puthoor, Kottarakkara road",9.0416382,76.7151043,AI Camera
+KL-KEL-KMVD-50-AICS-02-131,Kollam,Mynagappally - Sasthamkotta road,9.0423429,76.585005,AI Camera
+KL-KEL-KMVD-50-AICS-02-132,Kollam,Sasthamkotta,9.0432876,76.625558,AI Camera
+KL-KEL-KMVD-50-AICS-02-133,Kollam,Karunagappally Jn,9.0484933,76.5363593,AI Camera
+KL-KEL-KMVD-50-AICS-02-134,Kollam,Bharanikavu Jn,9.0595063,76.6391344,AI Camera
+KL-KEL-KMVD-50-AICS-02-135,Kollam,Nediyavila Jn,9.061752,76.6746959,AI Camera
+KL-KEL-KMVD-50-AICS-02-136,Kollam,Patharam. High School Jn. Karunagappally road,9.0751864,76.6050413,AI Camera
+KL-KEL-KMVD-50-AICS-02-137,Kollam,Puthiyakavu Jn,9.0781564,76.5316868,AI Camera
+KL-KEL-KMVD-50-AICS-02-138,Kollam,"Alappat Jn, Kulakkada",9.0803718,76.7529852,AI Camera
+KL-KEL-KMVD-50-AICS-02-139,Kollam,Thazhava Jn,9.0875852,76.5543571,AI Camera
+KL-KEL-KMVD-50-AICS-02-140,Kollam,Chakkuvally Jn,9.0886587,76.6382357,AI Camera
+KL-KEL-KMVD-50-AICS-02-141,Kollam,Pathanapuram,9.0888818,76.8560478,AI Camera
+KL-KEL-KMVD-50-AICS-02-142,Kollam,"Oachira Bypass Jn,",9.1293042,76.5153318,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-03-143,Pathanamthitta,"Kadampanad Jn, Eanath road",9.0919576,76.6865217,AI Camera
+KL-KEL-KMVD-50-AICS-03-144,Pathanamthitta,"Enath, Adoor MC road",9.0930627,76.753298,AI Camera
+KL-KEL-KMVD-50-AICS-03-145,Pathanamthitta,"Kalanjoor Jn, Elamannoor - Paadam road",9.120333726,76.85105704,AI Camera
+KL-KEL-KMVD-50-AICS-03-146,Pathanamthitta,"Nellimuttilpadi Jn, Sasthamkotta road",9.1396588,76.733111,AI Camera
+KL-KEL-KMVD-50-AICS-03-147,Pathanamthitta,"Ezhamkulam Jn, Adoor road",9.1449214,76.7681462,AI Camera
+KL-KEL-KMVD-50-AICS-03-148,Pathanamthitta,Adoor Jn,9.152474357,76.73564393,AI Camera
+KL-KEL-KMVD-50-AICS-03-149,Pathanamthitta,"High school Jn, Adoor",9.161539215,76.72083948,AI Camera
+KL-KEL-KMVD-50-AICS-03-150,Pathanamthitta,"Anandapally Jn, Pathanamthitta road",9.1763663,76.7415494,AI Camera
+KL-KEL-KMVD-50-AICS-03-151,Pathanamthitta,Pandalam Medical mission Jn,9.216957047,76.68110758,AI Camera
+KL-KEL-KMVD-50-AICS-03-152,Pathanamthitta,"Konni, Pathanapuram road",9.221877207,76.85094573,AI Camera
+KL-KEL-KMVD-50-AICS-03-153,Pathanamthitta,"Pandalam, Kaippattoor road",9.223665948,76.68318529,AI Camera
+KL-KEL-KMVD-50-AICS-03-154,Pathanamthitta,"MC road, Kulanada",9.242484078,76.67236827,AI Camera
+KL-KEL-KMVD-50-AICS-03-155,Pathanamthitta,"Omallur, Puthenpeedika, Pathanamthitta road",9.254415318,76.76195439,AI Camera
+KL-KEL-KMVD-50-AICS-03-156,Pathanamthitta,Pathanamthitta Stadium Jn,9.26127506,76.78206794,AI Camera
+KL-KEL-KMVD-50-AICS-03-157,Pathanamthitta,Parumala Church Junction,9.326112,76.53661,AI Camera
+KL-KEL-KMVD-50-AICS-03-158,Pathanamthitta,"Aban Jn, Sabarimala road",9.265480185,76.79015882,AI Camera
+KL-KEL-KMVD-50-AICS-03-159,Pathanamthitta,"Elanthoor Jn, Kozhancheri road",9.3000101,76.7298612,AI Camera
+KL-KEL-KMVD-50-AICS-03-160,Pathanamthitta,"Chittar Jn, Thannithod road. Near bus stand",9.32961267,76.92585547,AI Camera
+KL-KEL-KMVD-50-AICS-03-161,Pathanamthitta,Kozhanchery. Thiruvalla road. Near bridge,9.337144186,76.7062382,AI Camera
+KL-KEL-KMVD-50-AICS-03-162,Pathanamthitta,"Vadasserikkara, Chittar road",9.3372718,76.8272158,AI Camera
+KL-KEL-KMVD-50-AICS-03-163,Pathanamthitta,"Kuttoor, Thiruvalla MCroad",9.357776036,76.58901528,AI Camera
+KL-KEL-KMVD-50-AICS-03-164,Pathanamthitta,"Valanjavattom, Kavumbhagam - Mavelikkara road -",9.358736388,76.54154856,AI Camera
+KL-KEL-KMVD-50-AICS-03-165,Pathanamthitta,Blockpady,9.3619815,76.7769622,AI Camera
+KL-KEL-KMVD-50-AICS-03-166,Pathanamthitta,"Perunad Market Jn,",9.367490594,76.8494115,AI Camera
+KL-KEL-KMVD-50-AICS-03-167,Pathanamthitta,"Podiyadi - Nedumbaram, Ambalapuzha (Edathua) - Thiruvalla road",9.367994079,76.53536808,AI Camera
+KL-KEL-KMVD-50-AICS-03-168,Pathanamthitta,"Perumbuzha, Ranni, Pathanamthitta road",9.3794648,76.7796609,AI Camera
+KL-KEL-KMVD-50-AICS-03-169,Pathanamthitta,"Cross Jn, Thiruvalla",9.380888604,76.57468557,AI Camera
+KL-KEL-KMVD-50-AICS-03-170,Pathanamthitta,Idinjillam(Kavumbhagam Road),9.408548,76.549922,AI Camera
+KL-KEL-KMVD-50-AICS-03-171,Pathanamthitta,"Angadimukk, Ranni. Kozhancheri road",9.3827545,76.7793253,AI Camera
+KL-KEL-KMVD-50-AICS-03-172,Pathanamthitta,"Eraviperur, Thiruvalla road",9.382892869,76.63860731,AI Camera
+KL-KEL-KMVD-50-AICS-03-173,Pathanamthitta,"Thadiyoor, Thiruvalla road",9.383039079,76.70694429,AI Camera
+KL-KEL-KMVD-50-AICS-03-174,Pathanamthitta,"Ittiyappara, Ranni",9.384907708,76.78373929,AI Camera
+KL-KEL-KMVD-50-AICS-03-175,Pathanamthitta,"Thottabhagam, Thiruvalla road",9.385840861,76.61077838,AI Camera
+KL-KEL-KMVD-50-AICS-03-176,Pathanamthitta,"Bypass road, Changanassery Road",9.388378985,76.57820966,AI Camera
+KL-KEL-KMVD-50-AICS-03-178,Pathanamthitta,Chilanga Jn,9.391943839,76.57780398,AI Camera
+KL-KEL-KMVD-50-AICS-03-179,Pathanamthitta,"Perunthuruthi, Thiruvalla - Changanassery road",9.4064875,76.5597525,AI Camera
+KL-KEL-KMVD-50-AICS-03-180,Pathanamthitta,"Chalappaly, Mallappally road",9.416454894,76.72854949,AI Camera
+KL-KEL-KMVD-50-AICS-03-181,Pathanamthitta,"Mandamaruthi Jn, Ponkunnam road",9.421429464,76.79758955,AI Camera
+KL-KEL-KMVD-50-AICS-03-182,Pathanamthitta,"Vechoochira, Mannadisala Navodaya school road",9.431753782,76.85190696,AI Camera
+KL-KEL-KMVD-50-AICS-03-183,Pathanamthitta,"Kunnanthanam Jn, Mallappally road",9.434784043,76.61206283,AI Camera
+KL-KEL-KMVD-50-AICS-03-184,Pathanamthitta,"Mallapally, Thiruvalla road",9.443949079,76.6511758,AI Camera
+KL-KEL-KMVD-50-AICS-03-185,Pathanamthitta,"Chungapara Jn, Mallappally road",9.45162396,76.74552318,AI Camera
+KL-KEL-KMVD-50-AICS-03-186,Pathanamthitta,"Nedungadappally, Changanassery road",9.4627189,76.6380813,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-04-187,Alappuzha,Mukkada jn,9.151489277,76.51384301,AI Camera
+KL-KEL-KMVD-50-AICS-04-188,Alappuzha,Kayamkulam Govt Hospital Rd,9.171988,76.498481,AI Camera
+KL-KEL-KMVD-50-AICS-04-189,Alappuzha,Charumoodu,9.1748553,76.6124068,AI Camera
+KL-KEL-KMVD-50-AICS-04-190,Alappuzha,Pullukulangara,9.1760545,76.4732807,AI Camera
+KL-KEL-KMVD-50-AICS-04-191,Alappuzha,Kattanam,9.1764854,76.5629889,AI Camera
+KL-KEL-KMVD-50-AICS-04-192,Alappuzha,Kuttitheruvu jn,9.176729,76.5257847,AI Camera
+KL-KEL-KMVD-50-AICS-04-193,Alappuzha,Muthukulam high school junction,9.2136987,76.4614916,AI Camera
+KL-KEL-KMVD-50-AICS-04-194,Alappuzha,mangam kuzhiyil,9.2348281,76.5898527,AI Camera
+KL-KEL-KMVD-50-AICS-04-195,Alappuzha,Thattarambalam,9.2473627,76.5205897,AI Camera
+KL-KEL-KMVD-50-AICS-04-196,Alappuzha,Choondupalaka junction muttom,9.2513432,76.4879771,AI Camera
+KL-KEL-KMVD-50-AICS-04-197,Alappuzha,Kollakadavu,9.252497346,76.5856424,AI Camera
+KL-KEL-KMVD-50-AICS-04-198,Alappuzha,Michel junction,9.2531055,76.5403902,AI Camera
+KL-KEL-KMVD-50-AICS-04-199,Alappuzha,Thrickunnappuzha,9.258257,76.415632,AI Camera
+KL-KEL-KMVD-50-AICS-04-200,Alappuzha,Ikya Junction,9.177174,76.4849,AI Camera
+KL-KEL-KMVD-50-AICS-04-201,Alappuzha,Madhava junction,9.283838795,76.45450585,AI Camera
+KL-KEL-KMVD-50-AICS-04-202,Alappuzha,Mulakuzha,9.3011009,76.6315041,AI Camera
+KL-KEL-KMVD-50-AICS-04-203,Alappuzha,Nangyarkulangara(Thrikkunnapuzha Road),9.259619,76.460688,AI Camera
+KL-KEL-KMVD-50-AICS-04-204,Alappuzha,"Marketjuncion,kacheri junction",9.31364889,76.61914151,AI Camera
+KL-KEL-KMVD-50-AICS-04-205,Alappuzha,Veeyapuram,9.3184482,76.4594956,AI Camera
+KL-KEL-KMVD-50-AICS-04-206,Alappuzha,Mannaar,9.3256887,76.5322876,AI Camera
+KL-KEL-KMVD-50-AICS-04-207,Alappuzha,Kallisseri,9.3363559,76.6033317,AI Camera
+KL-KEL-KMVD-50-AICS-04-208,Alappuzha,Edathua,9.3634802,76.4762779,AI Camera
+KL-KEL-KMVD-50-AICS-04-209,Alappuzha,Thottappalli,9.315957,76.387853,AI Camera
+KL-KEL-KMVD-50-AICS-04-210,Alappuzha,Ambalappuzha(Edathua Road),9.383509,76.357872,AI Camera
+KL-KEL-KMVD-50-AICS-04-211,Alappuzha,Valanjavazhi(SN Kavala),9.401926,76.357819,AI Camera
+KL-KEL-KMVD-50-AICS-04-212,Alappuzha,Kaichoondy,9.512952,76.3382155,AI Camera
+KL-KEL-KMVD-50-AICS-04-213,Alappuzha,"Kaithavan, kalarcode",9.4704225,76.3443066,AI Camera
+KL-KEL-KMVD-50-AICS-04-214,Alappuzha,Valiyakulam junction,9.4818996,76.3313591,AI Camera
+KL-KEL-KMVD-50-AICS-04-215,Alappuzha,Zackariya bazar,9.4919314,76.3263084,AI Camera
+KL-KEL-KMVD-50-AICS-04-216,Alappuzha,Power house bridge,9.5005718,76.328774,AI Camera
+KL-KEL-KMVD-50-AICS-04-217,Alappuzha,District court alappuzha,9.502623,76.3415061,AI Camera
+KL-KEL-KMVD-50-AICS-04-218,Alappuzha,Valyachudukaad,9.475753,76.337596,AI Camera
+KL-KEL-KMVD-50-AICS-04-219,Alappuzha,Irumbu Paalam,9.496021,76.338934,AI Camera
+KL-KEL-KMVD-50-AICS-04-220,Alappuzha,Muhamma,9.604249436,76.35916572,AI Camera
+KL-KEL-KMVD-50-AICS-04-221,Alappuzha,Thannermukkom bund,9.677170769,76.39267389,AI Camera
+KL-KEL-KMVD-50-AICS-04-222,Alappuzha,Cherthala court junction,9.690197053,76.34328235,AI Camera
+KL-KEL-KMVD-50-AICS-04-223,Alappuzha,Kattoor,9.566642,76.308784,AI Camera
+KL-KEL-KMVD-50-AICS-04-224,Alappuzha,Shaktheeswaran Junction,9.695453,76.325799,AI Camera
+KL-KEL-KMVD-50-AICS-04-225,Alappuzha,thuravoor td junction,9.7681592,76.3186806,AI Camera
+KL-KEL-KMVD-50-AICS-04-226,Alappuzha,Thyckattushery ferry,9.775303248,76.33569639,AI Camera
+KL-KEL-KMVD-50-AICS-04-227,Alappuzha,Arookutti bridge,9.869442701,76.32134791,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-05-228,Kottayam,Laikadu bridge – 1,9.429684644,76.54460393,AI Camera
+KL-KEL-KMVD-50-AICS-05-229,Kottayam,Laikadu Bridge – 2,9.429820249,76.54453553,AI Camera
+KL-KEL-KMVD-50-AICS-05-230,Kottayam,Kattachira,9.676098,76.589123,AI Camera
+KL-KEL-KMVD-50-AICS-05-231,Kottayam,Parelappally church,9.456794,76.552288,AI Camera
+KL-KEL-KMVD-50-AICS-05-232,Kottayam,Kannanperoor bridge – 1,9.4698699,76.5295594,AI Camera
+KL-KEL-KMVD-50-AICS-05-233,Kottayam,Kannanperoor bridge – 2,9.4704057,76.5294309,AI Camera
+KL-KEL-KMVD-50-AICS-05-234,Kottayam,Karukachal – 1,9.5007746,76.635727,AI Camera
+KL-KEL-KMVD-50-AICS-05-235,Kottayam,Karukachal – 2,9.504676691,76.64065551,AI Camera
+KL-KEL-KMVD-50-AICS-05-236,Kottayam,Kanjirappally,9.5603616,76.8106445,AI Camera
+KL-KEL-KMVD-50-AICS-05-237,Kottayam,"Near Police station, Ponkunnam, KK road",9.5621733,76.7721317,AI Camera
+KL-KEL-KMVD-50-AICS-05-238,Kottayam,Ponkunnam Police station Pala road,9.5641394,76.7622764,AI Camera
+KL-KEL-KMVD-50-AICS-05-239,Kottayam,"Kodimatha - 2, Manipuzha",9.566053765,76.51861466,AI Camera
+KL-KEL-KMVD-50-AICS-05-240,Kottayam,Pala Road - Ponkunnam,9.5687085,76.7533038,AI Camera
+KL-KEL-KMVD-50-AICS-05-241,Kottayam,Kodimatha – 1,9.5727248,76.5196126,AI Camera
+KL-KEL-KMVD-50-AICS-05-242,Kottayam,Kottayam Kumaly road,9.5883523,76.539343,AI Camera
+KL-KEL-KMVD-50-AICS-05-243,Kottayam,KK road Kanjikuzhi,9.5885892,76.5364632,AI Camera
+KL-KEL-KMVD-50-AICS-05-244,Kottayam,Kottayam Kumarakom road – 1,9.5946188,76.5208013,AI Camera
+KL-KEL-KMVD-50-AICS-05-245,Kottayam,Kottayam Kumarakom road – 2,9.5951792,76.5176962,AI Camera
+KL-KEL-KMVD-50-AICS-05-246,Kottayam,Nagampadom bridge – 1,9.5987549,76.528686,AI Camera
+KL-KEL-KMVD-50-AICS-05-247,Kottayam,Nagampadom bridge – 2,9.6104973,76.5333283,AI Camera
+KL-KEL-KMVD-50-AICS-05-248,Kottayam,"St. Joseph church, Paika town – 2",9.653175887,76.72407959,AI Camera
+KL-KEL-KMVD-50-AICS-05-249,Kottayam,Central junction – 2,9.664478133,76.55377742,AI Camera
+KL-KEL-KMVD-50-AICS-05-250,Kottayam,"St. Joseph church, Paika town – 1",9.674031945,76.69993635,AI Camera
+KL-KEL-KMVD-50-AICS-05-251,Kottayam,Central junction – 1,9.6784259,76.5579359,AI Camera
+KL-KEL-KMVD-50-AICS-05-252,Kottayam,"Aaniyilapp, Eerattupetta",9.679143,76.7883634,AI Camera
+KL-KEL-KMVD-50-AICS-05-253,Kottayam,"Aruvithura church - 1, Erattupetta",9.6856967,76.7770483,AI Camera
+KL-KEL-KMVD-50-AICS-05-254,Kottayam,"Aruvithura Church - 2, Earttupetta",9.6861883,76.77715,AI Camera
+KL-KEL-KMVD-50-AICS-05-255,Kottayam,"Near Mubarak Masjid, Nadaykkal",9.6902408,76.7862001,AI Camera
+KL-KEL-KMVD-50-AICS-05-257,Kottayam,"Masjid noor juma masjid, Erattupetta 1",9.6932172,76.7702609,AI Camera
+KL-KEL-KMVD-50-AICS-05-258,Kottayam,"Masjid Noor Juma Masjid, Erattupetta 2",9.694570762,76.76719274,AI Camera
+KL-KEL-KMVD-50-AICS-05-259,Kottayam,Ponkunnam Bridge – 2,9.7044824,76.6840418,AI Camera
+KL-KEL-KMVD-50-AICS-05-260,Kottayam,Head post office Pala – 2,9.7058014,76.6695493,AI Camera
+KL-KEL-KMVD-50-AICS-05-261,Kottayam,Ponkunnam Bridge – 1,9.7096535,76.6825593,AI Camera
+KL-KEL-KMVD-50-AICS-05-262,Kottayam,Head post office Pala – 1,9.709763291,76.6788096,AI Camera
+KL-KEL-KMVD-50-AICS-05-263,Kottayam,SRTO 1 Pala,9.7115617,76.6993877,AI Camera
+KL-KEL-KMVD-50-AICS-05-264,Kottayam,SRTO 2 Pala,9.7118116,76.6933798,AI Camera
+KL-KEL-KMVD-50-AICS-05-265,Kottayam,Near KSEB Pala - 1,9.7172254,76.6827236,AI Camera
+KL-KEL-KMVD-50-AICS-05-266,Kottayam,RV junction Pala – 2,9.71725,76.689245,AI Camera
+KL-KEL-KMVD-50-AICS-05-267,Kottayam,Near KSEB Pala – 2,9.720274817,76.67952508,AI Camera
+KL-KEL-KMVD-50-AICS-05-268,Kottayam,RV Junction Pala – 1,9.731908559,76.69260956,AI Camera
+KL-KEL-KMVD-50-AICS-05-269,Kottayam,Near Govt hospital Thalayolaparambu,9.782885372,76.4550842,AI Camera
+KL-KEL-KMVD-50-AICS-05-270,Kottayam,Govt hospital junction,9.78597031,76.45416252,AI Camera
+KL-KEL-KMVD-50-AICS-05-271,Kottayam,Near Thalappara junction,9.7877782,76.4589748,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-06-272,Idukki,GH road,10.0882902,77.0602522,AI Camera
+KL-KEL-KMVD-50-AICS-06-273,Idukki,"Munnar,theatre bazar",10.07719032,77.0630119,AI Camera
+KL-KEL-KMVD-50-AICS-06-274,Idukki,Adimali 2,10.0157731,76.9531487,AI Camera
+KL-KEL-KMVD-50-AICS-06-275,Idukki,Adimali 1,10.01440244,76.94490921,AI Camera
+KL-KEL-KMVD-50-AICS-06-276,Idukki,Pooppara junction,9.976697723,77.20877789,AI Camera
+KL-KEL-KMVD-50-AICS-06-277,Idukki,Rajakumari,9.968620779,77.15131022,AI Camera
+KL-KEL-KMVD-50-AICS-06-278,Idukki,Rajakkad,9.9629834,77.0994237,AI Camera
+KL-KEL-KMVD-50-AICS-06-279,Idukki,Murickassery,9.91356247,77.00971037,AI Camera
+KL-KEL-KMVD-50-AICS-06-280,Idukki,Vengalloor,9.912343441,76.69755958,AI Camera
+KL-KEL-KMVD-50-AICS-06-281,Idukki,muthalakodam,9.910857217,76.73423443,AI Camera
+KL-KEL-KMVD-50-AICS-06-282,Idukki,Al azhar college,9.908105043,76.7211201,AI Camera
+KL-KEL-KMVD-50-AICS-06-283,Idukki,Vengalloor 2,9.9077899,76.7081101,AI Camera
+KL-KEL-KMVD-50-AICS-06-284,Idukki,Mangattu kavala,9.902387925,76.72605067,AI Camera
+KL-KEL-KMVD-50-AICS-06-285,Idukki,Boys high school junction,9.9004221,76.7212189,AI Camera
+KL-KEL-KMVD-50-AICS-06-286,Idukki,Kaarickode,9.90026553,76.72958214,AI Camera
+KL-KEL-KMVD-50-AICS-06-287,Idukki,Kolani parackadavu,9.8991448,76.6983965,AI Camera
+KL-KEL-KMVD-50-AICS-06-288,Idukki,Municipal park,9.897289994,76.71179876,AI Camera
+KL-KEL-KMVD-50-AICS-06-289,Idukki,Manakkad junction,9.896583841,76.70565952,AI Camera
+KL-KEL-KMVD-50-AICS-06-290,Idukki,Kanjiramattom junction,9.895990975,76.71881273,AI Camera
+KL-KEL-KMVD-50-AICS-06-291,Idukki,Karimban,9.89267487,76.9721809,AI Camera
+KL-KEL-KMVD-50-AICS-06-292,Idukki,Kolani,9.888143246,76.69663087,AI Camera
+KL-KEL-KMVD-50-AICS-06-293,Idukki,Thopramkudy,9.877691208,77.05638416,AI Camera
+KL-KEL-KMVD-50-AICS-06-294,Idukki,Mrala,9.8575367,76.729575,AI Camera
+KL-KEL-KMVD-50-AICS-06-295,Idukki,Cheruthoni,9.843387137,76.9847038,AI Camera
+KL-KEL-KMVD-50-AICS-06-296,Idukki,Nedumkandam,9.839621896,77.15740319,AI Camera
+KL-KEL-KMVD-50-AICS-06-297,Idukki,Thankamani,9.8382501,77.0394942,AI Camera
+KL-KEL-KMVD-50-AICS-06-298,Idukki,Kattappana 2 erattayar road,9.760443133,77.11509168,AI Camera
+KL-KEL-KMVD-50-AICS-06-299,Idukki,Kattappana,9.755893837,77.11893763,AI Camera
+KL-KEL-KMVD-50-AICS-06-300,Idukki,Kanchiyar,9.745630929,77.07694028,AI Camera
+KL-KEL-KMVD-50-AICS-06-301,Idukki,Upputhura,9.697227216,77.02065345,AI Camera
+KL-KEL-KMVD-50-AICS-06-302,Idukki,Anackara,9.662839752,77.15958249,AI Camera
+KL-KEL-KMVD-50-AICS-06-303,Idukki,Wagamon,9.6498758,76.9263138,AI Camera
+KL-KEL-KMVD-50-AICS-06-304,Idukki,1st mile,9.618762107,77.15818606,AI Camera
+KL-KEL-KMVD-50-AICS-06-305,Idukki,Kuttikanam Elappara road Pallickunn,9.61081595,76.9689827,AI Camera
+KL-KEL-KMVD-50-AICS-06-306,Idukki,Kumily,9.606601151,77.1634271,AI Camera
+KL-KEL-KMVD-50-AICS-06-307,Idukki,Kuttikanam(Kuttikanam Mundakayam road),9.579294929,76.97063595,AI Camera
+KL-KEL-KMVD-50-AICS-06-308,Idukki,Vandiperiyar,9.571476784,77.08882179,AI Camera
+KL-KEL-KMVD-50-AICS-06-309,Idukki,Mundakkayam(Mundakayam Kuttikanam road),9.5389935,76.9010992,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-07-310,Ernakulam,Aryankavu,9.8481617,76.4095606,AI Camera
+KL-KEL-KMVD-50-AICS-07-311,Ernakulam,Puthenkavu,9.857015711,76.38364255,AI Camera
+KL-KEL-KMVD-50-AICS-07-312,Ernakulam,Aroor  Thoppumpadi  road,9.887245502,76.29822023,AI Camera
+KL-KEL-KMVD-50-AICS-07-313,Ernakulam,Kumbalam Panangad bridge,9.910791162,76.31650921,AI Camera
+KL-KEL-KMVD-50-AICS-07-314,Ernakulam,Aroor,9.914415886,76.58340879,AI Camera
+KL-KEL-KMVD-50-AICS-07-315,Ernakulam,Nettoor,9.915166257,76.31679989,AI Camera
+KL-KEL-KMVD-50-AICS-07-316,Ernakulam,Udyamperoor,9.917132338,76.36263315,AI Camera
+KL-KEL-KMVD-50-AICS-07-317,Ernakulam,Near Alexander Parampithara bridge,9.9294878,76.29045,AI Camera
+KL-KEL-KMVD-50-AICS-07-318,Ernakulam,Parippu jn,9.935489681,76.25284564,AI Camera
+KL-KEL-KMVD-50-AICS-07-319,Ernakulam,Thiruvankulam,9.9456043,76.3697717,AI Camera
+KL-KEL-KMVD-50-AICS-07-320,Ernakulam,Karigachira,9.952463981,76.35868125,AI Camera
+KL-KEL-KMVD-50-AICS-07-321,Ernakulam,Aavoli,9.954176883,76.62787311,AI Camera
+KL-KEL-KMVD-50-AICS-07-322,Ernakulam,Anicadu,9.9620057,76.6176238,AI Camera
+KL-KEL-KMVD-50-AICS-07-323,Ernakulam,Irumbanam,9.965175,76.357405,AI Camera
+KL-KEL-KMVD-50-AICS-07-324,Ernakulam,Valakom,9.9782523,76.5302171,AI Camera
+KL-KEL-KMVD-50-AICS-07-325,Ernakulam,Mudickal,9.978715937,76.57932378,AI Camera
+KL-KEL-KMVD-50-AICS-07-326,Ernakulam,Muvattupuzha pvt bus stand,9.979156759,76.58680648,AI Camera
+KL-KEL-KMVD-50-PVDS-07-327,Ernakulam,Marine drive,9.980284402,76.27557904,PVDS
+KL-KEL-KMVD-50-AICS-07-328,Ernakulam,Kaalamukku,9.9853721,76.2407218,AI Camera
+KL-KEL-KMVD-50-AICS-07-329,Ernakulam,Kadathi,9.9862008,76.5659816,AI Camera
+KL-KEL-KMVD-50-AICS-07-330,Ernakulam,Kakkadasseri,9.997385143,76.59879595,AI Camera
+KL-KEL-KMVD-50-AICS-07-331,Ernakulam,Vazhappally,9.997955372,76.57208115,AI Camera
+KL-KEL-KMVD-50-AICS-07-332,Ernakulam,Pattimattom,10.02408381,76.45411827,AI Camera
+KL-KEL-KMVD-50-AICS-07-333,Ernakulam,Njarackal,10.03852724,76.21974785,AI Camera
+KL-KEL-KMVD-50-AICS-07-334,Ernakulam,Mannoor,10.0449882,76.53393,AI Camera
+KL-KEL-KMVD-50-AICS-07-336,Ernakulam,Oonukal,10.0522005,76.70564611,AI Camera
+KL-KEL-KMVD-50-AICS-07-337,Ernakulam,Vimalagiri College junction,10.05898524,76.61548533,AI Camera
+KL-KEL-KMVD-50-AICS-07-338,Ernakulam,Kozhippalli,10.06020471,76.63584363,AI Camera
+KL-KEL-KMVD-50-AICS-07-339,Ernakulam,Arackapadi,10.06435431,76.46179743,AI Camera
+KL-KEL-KMVD-50-AICS-07-340,Ernakulam,Kothamangalam Govt hospital,10.06630893,76.61727369,AI Camera
+KL-KEL-KMVD-50-AICS-07-341,Ernakulam,Nangeli padi,10.06983322,76.60161965,AI Camera
+KL-KEL-KMVD-50-AICS-07-342,Ernakulam,Varappuzha bridge – 1,10.07711176,76.27662007,AI Camera
+KL-KEL-KMVD-50-AICS-07-343,Ernakulam,Varappuzha bridge – 2,10.07929935,76.27416048,AI Camera
+KL-KEL-KMVD-50-AICS-07-344,Ernakulam,Odackali,10.0893592,76.5643124,AI Camera
+KL-KEL-KMVD-50-AICS-07-345,Ernakulam,Thaqua nagar Thandekad,10.09694676,76.45036854,AI Camera
+KL-KEL-KMVD-50-AICS-07-346,Ernakulam,Koonammavu,10.10128865,76.2653501,AI Camera
+KL-KEL-KMVD-50-AICS-07-347,Ernakulam,Cherukunnam,10.1014788,76.5417965,AI Camera
+KL-KEL-KMVD-50-AICS-07-348,Ernakulam,Paathipalam,10.10773107,76.47571106,AI Camera
+KL-KEL-KMVD-50-AICS-07-349,Ernakulam,Perumbavoor signal MC road,10.11142885,76.47907086,AI Camera
+KL-KEL-KMVD-50-AICS-07-350,Ernakulam,AM road Perumbavoor – 2,10.11452785,76.47011496,AI Camera
+KL-KEL-KMVD-50-AICS-07-351,Ernakulam,Iringol,10.11558109,76.5008799,AI Camera
+KL-KEL-KMVD-50-AICS-07-352,Ernakulam,AM road Perumbavoor – 1,10.11615837,76.48461901,AI Camera
+KL-KEL-KMVD-50-AICS-07-353,Ernakulam,Muvattupuzha KSRTC junction,10.11660098,76.44559488,AI Camera
+KL-KEL-KMVD-50-AICS-07-354,Ernakulam,Kaduval jn,10.12299557,76.47338625,AI Camera
+KL-KEL-KMVD-50-AICS-07-355,Ernakulam,Cherayi padam,10.14111319,76.20319828,AI Camera
+KL-KEL-KMVD-50-AICS-07-356,Ernakulam,Perumpadanna North Paravoor,10.1411133,76.2031983,AI Camera
+KL-KEL-KMVD-50-AICS-07-357,Ernakulam,Mannam,10.14620795,76.25461958,AI Camera
+KL-KEL-KMVD-50-AICS-07-358,Ernakulam,Thamara valavu North Paravoor,10.14982443,76.24219224,AI Camera
+KL-KEL-KMVD-50-AICS-07-359,Ernakulam,Manjali bridge,10.15340028,76.27307452,AI Camera
+KL-KEL-KMVD-50-AICS-07-360,Ernakulam,Athani,10.1556682,76.35283504,AI Camera
+KL-KEL-KMVD-50-AICS-07-361,Ernakulam,"Nayathodu, Mattor  airport  road",10.1635835,76.4037938,AI Camera
+KL-KEL-KMVD-50-AICS-07-362,Ernakulam,Mattoor,10.17006547,76.43074952,AI Camera
+KL-KEL-KMVD-50-AICS-07-363,Ernakulam,Kalady Malayattoor road,10.1702164,76.4449203,AI Camera
+KL-KEL-KMVD-50-AICS-07-364,Ernakulam,Malliankara,10.1742599,76.181373,AI Camera
+KL-KEL-KMVD-50-AICS-07-365,Ernakulam,TELK – 2,10.1780564,76.3781394,AI Camera
+KL-KEL-KMVD-50-AICS-07-366,Ernakulam,TELK - 1,10.17805652,76.37815006,AI Camera
+KL-KEL-KMVD-50-AICS-07-367,Ernakulam,Moothakunnam,10.1828053,76.2048861,AI Camera
+KL-KEL-KMVD-50-AICS-07-368,Ernakulam,Vengoor,10.18397303,76.40595518,AI Camera
+KL-KEL-KMVD-50-PVDS-07-369,Ernakulam,Angamaly nh jn,10.19297151,76.38687462,PVDS
+KL-KEL-KMVD-50-AICS-07-370,Ernakulam,Angadikadvu,10.19672737,76.38265617,AI Camera
+KL-KEL-KMVD-50-AICS-07-371,Ernakulam,Kidangoor,10.1984172,76.39603738,AI Camera
+KL-KEL-KMVD-50-AICS-07-372,Ernakulam,Karayamparambu – 1,10.2053278,76.3825742,AI Camera
+KL-KEL-KMVD-50-AICS-07-373,Ernakulam,Karayamparambu – 2,10.20556809,76.38207179,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-08-374,Thrissur,Valiyapanikan Thuruth,10.19681185,76.20065186,AI Camera
+KL-KEL-KMVD-50-AICS-08-375,Thrissur,Methala (Actual Location Arakulam),10.2125041,76.197451,AI Camera
+KL-KEL-KMVD-50-AICS-08-376,Thrissur,Ubazar-Eriyad,10.22819541,76.17450569,AI Camera
+KL-KEL-KMVD-50-AICS-08-377,Thrissur,North nada-Kodungalloor,10.2284536,76.1983165,AI Camera
+KL-KEL-KMVD-50-AICS-08-378,Thrissur,Maala,10.24056295,76.2714994,AI Camera
+KL-KEL-KMVD-50-AICS-08-379,Thrissur,Karupadanna(Konathkunn),10.2755239,76.2102196,AI Camera
+KL-KEL-KMVD-50-AICS-08-380,Thrissur,Mathilmoola,10.28143994,76.17075965,AI Camera
+KL-KEL-KMVD-50-AICS-08-381,Thrissur,Mathilakam,10.293174,76.1608167,AI Camera
+KL-KEL-KMVD-50-PVDS-08-382,Thrissur,Thriprayar Temple Gate,10.414214,76.113296,PVDS
+KL-KEL-KMVD-50-AICS-08-385,Thrissur,Edathirinji-Irinjalakuda,10.34083974,76.20320264,AI Camera
+KL-KEL-KMVD-50-AICS-08-386,Thrissur,RS road-Irinjalakuda(Don bosco view road),10.3436783,76.22512,AI Camera
+KL-KEL-KMVD-50-PVDS-08-387,Thrissur,Irinjalakuda,10.34706886,76.21238217,PVDS
+KL-KEL-KMVD-50-AICS-08-388,Thrissur,SN Nagar-Irinjalakuda,10.357114,76.218667,AI Camera
+KL-KEL-KMVD-50-AICS-08-389,Thrissur,Valappad,10.39669516,76.11572977,AI Camera
+KL-KEL-KMVD-50-AICS-08-391,Thrissur,Thalikulam,10.43997236,76.09513946,AI Camera
+KL-KEL-KMVD-50-AICS-08-392,Thrissur,Vadanappalli-Puthukulangara,10.46192044,76.08393185,AI Camera
+KL-KEL-KMVD-50-AICS-08-393,Thrissur,Arimbur,10.49768549,76.15175217,AI Camera
+KL-KEL-KMVD-50-AICS-08-394,Thrissur,Kuriyachira,10.49837218,76.22837048,AI Camera
+KL-KEL-KMVD-50-AICS-08-395,Thrissur,Chettupuzha Bridge,10.4988487,76.1642427,AI Camera
+KL-KEL-KMVD-50-AICS-08-396,Thrissur,Ancherichira,10.50474055,76.24681268,AI Camera
+KL-KEL-KMVD-50-AICS-08-397,Thrissur,Nadathara 2,10.51333723,76.25843402,AI Camera
+KL-KEL-KMVD-50-AICS-08-398,Thrissur,Nadathara NH,10.51386466,76.25835221,AI Camera
+KL-KEL-KMVD-50-AICS-08-399,Thrissur,Nellikkunn,10.51391147,76.24358699,AI Camera
+KL-KEL-KMVD-50-PVDS-08-400,Thrissur,Civil line road 2,10.52184762,76.19932014,PVDS
+KL-KEL-KMVD-50-AICS-08-401,Thrissur,Chettuva M E S center junction,10.52432913,76.04994021,AI Camera
+KL-KEL-KMVD-50-AICS-08-402,Thrissur,"Round West, Thrissur",10.52482325,76.212008,AI Camera
+KL-KEL-KMVD-50-AICS-08-403,Thrissur,Kalathode,10.52654461,76.2535695,AI Camera
+KL-KEL-KMVD-50-PVDS-08-404,Thrissur,Poonkunnam,10.53309666,76.20195039,PVDS
+KL-KEL-KMVD-50-PVDS-08-405,Thrissur,Patturaikkal,10.53662332,76.21187456,PVDS
+KL-KEL-KMVD-50-AICS-08-406,Thrissur,Puzhakkal,10.54389471,76.18195117,AI Camera
+KL-KEL-KMVD-50-AICS-08-407,Thrissur,"Peringavu, Viyyur",10.54827988,76.21200632,AI Camera
+KL-KEL-KMVD-50-AICS-08-408,Thrissur,Vimala college,10.55217815,76.22671589,AI Camera
+KL-KEL-KMVD-50-AICS-08-409,Thrissur,"Manathala, Chavakkad",10.58814761,76.01579871,AI Camera
+KL-KEL-KMVD-50-AICS-08-410,Thrissur,"Thykkad, Guruvayur",10.59864119,76.05300095,AI Camera
+KL-KEL-KMVD-50-AICS-08-411,Thrissur,Mulamkunnathukaavu(Killannur),10.59963,76.2106117,AI Camera
+KL-KEL-KMVD-50-AICS-08-412,Thrissur,Athani bypass(Thrissur-Ottapalam road),10.6201171,76.2170267,AI Camera
+KL-KEL-KMVD-50-AICS-08-413,Thrissur,Choondal,10.63049213,76.08832229,AI Camera
+KL-KEL-KMVD-50-AICS-08-414,Thrissur,Kunnamkulam,10.6463695,76.0658423,AI Camera
+KL-KEL-KMVD-50-AICS-08-415,Thrissur,Chowannur,10.6546989,76.0801941,AI Camera
+KL-KEL-KMVD-50-AICS-08-416,Thrissur,Vellarakkad,10.6773816,76.120344,AI Camera
+KL-KEL-KMVD-50-AICS-08-417,Thrissur,Porkulam,10.68085605,76.07051142,AI Camera
+KL-KEL-KMVD-50-AICS-08-419,Thrissur,Aakkikavu - Perumbilavu,10.6932856,76.0916377,AI Camera
+KL-KEL-KMVD-50-AICS-08-420,Thrissur,Chelakkara(Vazhakod-Alathur road),10.69563592,76.33140653,AI Camera
+KL-KEL-KMVD-50-AICS-08-421,Thrissur,"Mulloorkara, Aattoor",10.70844143,76.28029201,AI Camera
+KL-KEL-KMVD-50-AICS-08-422,Thrissur,Kadavaloor,10.71822523,76.07257873,AI Camera
+KL-KEL-KMVD-50-AICS-08-423,Thrissur,Thiruvilwamala(Pazhayannoor-Lakkidi road),10.73031001,76.42706014,AI Camera
+KL-KEL-KMVD-50-AICS-08-424,Thrissur,Cheruthuruthy,10.74907876,76.27474453,AI Camera
+KL-KEL-KMVD-50-AICS-08-425,Thrissur,"Thalasseri, Aranattukara",10.7507917,76.2115867,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-09-426,Palakkad,Vadakkancheri,10.58989959,76.4804941,AI Camera
+KL-KEL-KMVD-50-AICS-09-427,Palakkad,Ayinampadam,10.59395717,76.59151945,AI Camera
+KL-KEL-KMVD-50-AICS-09-428,Palakkad,Valliyode,10.59742512,76.49920151,AI Camera
+KL-KEL-KMVD-50-AICS-09-429,Palakkad,Mangalam Bridge,10.59998314,76.4891563,AI Camera
+KL-KEL-KMVD-50-AICS-09-430,Palakkad,Vattekkad,10.61083387,76.67523555,AI Camera
+KL-KEL-KMVD-50-AICS-09-431,Palakkad,Nedumani,10.61190224,76.70605313,AI Camera
+KL-KEL-KMVD-50-AICS-09-432,Palakkad,Ayakkad,10.61357631,76.47384088,AI Camera
+KL-KEL-KMVD-50-AICS-09-433,Palakkad,Keezhachira,10.63236084,76.6939795,AI Camera
+KL-KEL-KMVD-50-AICS-09-435,Palakkad,"Pazhayannur  Road,  Alathur",10.6484858,76.5363474,AI Camera
+KL-KEL-KMVD-50-AICS-09-436,Palakkad,Thathamangalam – Pallimukk,10.68264571,76.70019552,AI Camera
+KL-KEL-KMVD-50-AICS-09-437,Palakkad,BEML(Menom para Rd),10.794028,76.781087,AI Camera
+KL-KEL-KMVD-50-AICS-09-438,Palakkad,Paathikkal,10.732129,76.641843,AI Camera
+KL-KEL-KMVD-50-AICS-09-439,Palakkad,Panayoor,10.71366988,76.73400778,AI Camera
+KL-KEL-KMVD-50-AICS-09-440,Palakkad,Nalleppilly,10.72734462,76.78069666,AI Camera
+KL-KEL-KMVD-50-AICS-09-441,Palakkad,Kinassery,10.73392003,76.65445179,AI Camera
+KL-KEL-KMVD-50-AICS-09-442,Palakkad,Kadumthuruthy,10.7390755,76.652642,AI Camera
+KL-KEL-KMVD-50-AICS-09-444,Palakkad,Kozhinjampara,10.743509,76.83071516,AI Camera
+KL-KEL-KMVD-50-AICS-09-445,Palakkad,Vavanoor,10.75958984,76.13053892,AI Camera
+KL-KEL-KMVD-50-AICS-09-446,Palakkad,Kottayi,10.76072192,76.54409934,AI Camera
+KL-KEL-KMVD-50-AICS-09-447,Palakkad,Manapullikkavu,10.76097719,76.66502774,AI Camera
+KL-KEL-KMVD-50-AICS-09-448,Palakkad,"Koottupatha, Marutha road",10.76757724,76.69448443,AI Camera
+KL-KEL-KMVD-50-AICS-09-449,Palakkad,"Koduvayoor Rd, Kuzhalmantham",10.716079,76.603115,AI Camera
+KL-KEL-KMVD-50-AICS-09-450,Palakkad,Chakkanthara,10.76967962,76.63973115,AI Camera
+KL-KEL-KMVD-50-PVDS-09-451,Palakkad,Ottappalam,10.77293148,76.37481943,PVDS
+KL-KEL-KMVD-50-AICS-09-452,Palakkad,"Thenariparamb, Koduvayur-Thrippallur Rd",10.646504,76.568361,AI Camera
+KL-KEL-KMVD-50-AICS-09-453,Palakkad,Mepparambu,10.77562833,76.62854936,AI Camera
+KL-KEL-KMVD-50-PVDS-09-454,Palakkad,Pathirippala(PVDS),10.77951052,76.47438806,PVDS
+KL-KEL-KMVD-50-AICS-09-455,Palakkad,Pathirippala,10.7803058,76.4764205,AI Camera
+KL-KEL-KMVD-50-AICS-09-456,Palakkad,Nellukuthamkulam,10.67708,76.466931,AI Camera
+KL-KEL-KMVD-50-AICS-09-457,Palakkad,Chuvanna gate,10.78598962,76.26103207,AI Camera
+KL-KEL-KMVD-50-AICS-09-458,Palakkad,"Guruvayur road, Pattambi",10.79846755,76.18004177,AI Camera
+KL-KEL-KMVD-50-AICS-09-459,Palakkad,Mitranandapuram-Lakkidi,10.756351,76.436415,AI Camera
+KL-KEL-KMVD-50-AICS-09-460,Palakkad,Murikkumpatta,10.80169901,76.40668441,AI Camera
+KL-KEL-KMVD-50-AICS-09-461,Palakkad,Parali check Post,10.80181164,76.55282691,AI Camera
+KL-KEL-KMVD-50-AICS-09-462,Palakkad,Mele Pattambi,10.80901247,76.1873015,AI Camera
+KL-KEL-KMVD-50-AICS-09-463,Palakkad,Pirayiri,10.769897,76.617767,AI Camera
+KL-KEL-KMVD-50-AICS-09-464,Palakkad,Vallapuzha,10.83965714,76.25115652,AI Camera
+KL-KEL-KMVD-50-AICS-09-465,Palakkad,Kongad,10.86029328,76.50792707,AI Camera
+KL-KEL-KMVD-50-AICS-09-466,Palakkad,Cherpalassery,10.88163489,76.31849103,AI Camera
+KL-KEL-KMVD-50-AICS-09-467,Palakkad,Thiruvazhiyode,10.8947187,76.3881981,AI Camera
+KL-KEL-KMVD-50-AICS-09-468,Palakkad,Koppam Jn- Palakkad 100ft Rd,10.781601,76.659033,AI Camera
+KL-KEL-KMVD-50-AICS-09-469,Palakkad,Kanjirani(Kongad-Sreekrishnapuram Rd),10.899751,76.530788,AI Camera
+KL-KEL-KMVD-50-AICS-09-470,Palakkad,Kallanchola(Ponnamkode-Karakurishi Rd),10.944476,76.514589,AI Camera
+KL-KEL-KMVD-50-AICS-09-471,Palakkad,Thenkara(Mannarkkad-Aanakatti Rd),10.99853,76.470079,AI Camera
+KL-KEL-KMVD-50-AICS-09-472,Palakkad,Nellipuzha(Mannarkad-Anakatti Rd),10.99674,76.46945,AI Camera
+KL-KEL-KMVD-50-AICS-09-473,Palakkad,Alanalloor,11.00706753,76.3508093,AI Camera
+KL-KEL-KMVD-50-AICS-09-474,Palakkad,Kottappalla,11.06053881,76.34816632,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-10-475,Malappuram,Kootumuchi,11.088412,75.868781,AI Camera
+KL-KEL-KMVD-50-AICS-10-476,Malappuram,Naduvattom,10.76954491,76.01507083,AI Camera
+KL-KEL-KMVD-50-AICS-10-477,Malappuram,Kariparamba,11.041908,75.898306,AI Camera
+KL-KEL-KMVD-50-AICS-10-478,Malappuram,"Kavil padi ,Edappal",10.80530982,76.00798007,AI Camera
+KL-KEL-KMVD-50-AICS-10-479,Malappuram,Parambilangadi,10.987125,75.994884,AI Camera
+KL-KEL-KMVD-50-AICS-10-480,Malappuram,Perunthallur,10.8424255,75.94499175,AI Camera
+KL-KEL-KMVD-50-AICS-10-481,Malappuram,Kadungathukund,10.939883,75.982135,AI Camera
+KL-KEL-KMVD-50-AICS-10-482,Malappuram,Kuttikalathani,10.925323,75.997456,AI Camera
+KL-KEL-KMVD-50-AICS-10-483,Malappuram,Kottapuram,10.88131782,76.08574905,AI Camera
+KL-KEL-KMVD-50-AICS-10-484,Malappuram,Pulamanthole,10.899838,76.1903065,AI Camera
+KL-KEL-KMVD-50-AICS-10-485,Malappuram,"Thazhe palam, Tirur",10.91664502,75.91820955,AI Camera
+KL-KEL-KMVD-50-AICS-10-486,Malappuram,"Onappuda, Kulathoor",10.941303,76.1495703,AI Camera
+KL-KEL-KMVD-50-AICS-10-487,Malappuram,Moonnakkal,10.897823,76.077103,AI Camera
+KL-KEL-KMVD-50-AICS-10-488,Malappuram,"Amminikkad, School padi",10.967327,76.27398849,AI Camera
+KL-KEL-KMVD-50-AICS-10-489,Malappuram,Manathumangalam,10.995808,76.222475,AI Camera
+KL-KEL-KMVD-50-AICS-10-490,Malappuram,"Nadakkavu, Tanur",10.9715196,75.8830613,AI Camera
+KL-KEL-KMVD-50-AICS-10-491,Malappuram,Perinthalmanna,10.97393664,76.23663001,AI Camera
+KL-KEL-KMVD-50-AICS-10-492,Malappuram,"Jubilee Jn, Angadippuram",10.97585885,76.21210758,AI Camera
+KL-KEL-KMVD-50-AICS-10-493,Malappuram,padapparambu,10.988062,76.1067626,AI Camera
+KL-KEL-KMVD-50-AICS-10-494,Malappuram,Thadathil valavu,10.99082296,76.17673025,AI Camera
+KL-KEL-KMVD-50-AICS-10-495,Malappuram,Edarikode,10.99208088,75.97984336,AI Camera
+KL-KEL-KMVD-50-AICS-10-496,Malappuram,Kodakkal,10.851352,76.027689,AI Camera
+KL-KEL-KMVD-50-AICS-10-497,Malappuram,Chattiparambu,10.99905923,76.0889117,AI Camera
+KL-KEL-KMVD-50-AICS-10-498,Malappuram,Puthur bridge,11.00597653,76.01253413,AI Camera
+KL-KEL-KMVD-50-AICS-10-499,Malappuram,Perunthallur-2,10.837815,75.946806,AI Camera
+KL-KEL-KMVD-50-AICS-10-500,Malappuram,"Mankada, Verumpulakkal",11.02756401,76.16978131,AI Camera
+KL-KEL-KMVD-50-AICS-10-501,Malappuram,Koottilangadi,11.0338985,76.09980751,AI Camera
+KL-KEL-KMVD-50-AICS-10-502,Malappuram,Nooradi bridge,11.03897515,76.06926989,AI Camera
+KL-KEL-KMVD-50-AICS-10-503,Malappuram,Parappanangadi,11.04239156,75.86144663,AI Camera
+KL-KEL-KMVD-50-AICS-10-504,Malappuram,Kuttalur,11.0522243,75.99224355,AI Camera
+KL-KEL-KMVD-50-AICS-10-505,Malappuram,"KK Jn, Biyyam",10.786412,75.951539,AI Camera
+KL-KEL-KMVD-50-AICS-10-507,Malappuram,Marancheri,10.758934,75.966826,AI Camera
+KL-KEL-KMVD-50-AICS-10-508,Malappuram,Kolathuparamba(Kottakkal-Malappuram road),11.015905,76.014906,AI Camera
+KL-KEL-KMVD-50-AICS-10-509,Malappuram,"Kodakkallu, Kunnumpuram",11.07917815,75.94977245,AI Camera
+KL-KEL-KMVD-50-AICS-10-510,Malappuram,Pandikkad(Payyapramba),11.10368704,76.23009514,AI Camera
+KL-KEL-KMVD-50-AICS-10-511,Malappuram,Vazhaparapadi,11.10831438,76.12163767,AI Camera
+KL-KEL-KMVD-50-AICS-10-512,Malappuram,"Thurakkal, Manjeri",11.1197107,76.1129682,AI Camera
+KL-KEL-KMVD-50-AICS-10-513,Malappuram,Kadappadi valluvampuram,11.12736617,76.04756713,AI Camera
+KL-KEL-KMVD-50-AICS-10-514,Malappuram,Changaramkulam,10.736071,76.028617,AI Camera
+KL-KEL-KMVD-50-AICS-10-515,Malappuram,"Nelli parambu, Manjeri",11.1306266,76.11421198,AI Camera
+KL-KEL-KMVD-50-AICS-10-516,Malappuram,Kodangad (Kozhikode-Malappuram road),11.14053401,75.97637326,AI Camera
+KL-KEL-KMVD-50-AICS-10-517,Malappuram,"Alungal, pulikkal",11.16855924,75.92770658,AI Camera
+KL-KEL-KMVD-50-AICS-10-518,Malappuram,"Muchikachola, Naduvath",11.20903116,76.22630417,AI Camera
+KL-KEL-KMVD-50-AICS-10-519,Malappuram,"Cherumon,Edavanna",11.22508238,76.14607528,AI Camera
+KL-KEL-KMVD-50-AICS-10-520,Malappuram,Arekode,11.23971902,76.04663808,AI Camera
+KL-KEL-KMVD-50-AICS-10-521,Malappuram,Edavannapara,11.24548362,75.97378794,AI Camera
+KL-KEL-KMVD-50-AICS-10-522,Malappuram,Thazhe chandhakunnu(Janathapadi padikkunn),11.28416006,76.23733208,AI Camera
+KL-KEL-KMVD-50-AICS-10-523,Malappuram,Palunda,11.34605525,76.28594711,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-11-524,Kozhikode,Nallalam,11.16848359,75.83062604,AI Camera
+KL-KEL-KMVD-50-AICS-11-525,Kozhikode,Beypore,11.1705624,75.80604963,AI Camera
+KL-KEL-KMVD-50-AICS-11-526,Kozhikode,Nallur,11.171417,75.8392795,AI Camera
+KL-KEL-KMVD-50-AICS-11-527,Kozhikode,Mathottam,11.21022598,75.79780854,AI Camera
+KL-KEL-KMVD-50-AICS-11-528,Kozhikode,Kallayi,11.23285001,75.78900855,AI Camera
+KL-KEL-KMVD-50-AICS-11-529,Kozhikode,Vaidyarangadi(Palakkad road),11.178204,75.879253,AI Camera
+KL-KEL-KMVD-50-PVDS-11-530,Kozhikode,Station link road,11.24670657,75.7824073,PVDS
+KL-KEL-KMVD-50-AICS-11-531,Kozhikode,Calicut beach,11.25244144,75.77105485,AI Camera
+KL-KEL-KMVD-50-PVDS-11-532,Kozhikode,Mananchira(PVDS),11.25317967,75.77944513,PVDS
+KL-KEL-KMVD-50-PVDS-11-533,Kozhikode,Pavamani road,11.25514705,75.78490242,PVDS
+KL-KEL-KMVD-50-AICS-11-534,Kozhikode,Mananchira,11.2560168,75.77897977,AI Camera
+KL-KEL-KMVD-50-AICS-11-535,Kozhikode,Narikkuni,11.367075,75.862449,AI Camera
+KL-KEL-KMVD-50-AICS-11-536,Kozhikode,Anakuzhikara(Kuttikattur),11.2666833,75.8842633,AI Camera
+KL-KEL-KMVD-50-AICS-11-537,Kozhikode,Kavil(Omasseri-Koduvalli Rd),11.36848,75.929739,AI Camera
+KL-KEL-KMVD-50-AICS-11-538,Kozhikode,Ramanattukara West(Ferok road),11.179588,75.853828,AI Camera
+KL-KEL-KMVD-50-AICS-11-539,Kozhikode,Chevarambalam,11.27692944,75.80908187,AI Camera
+KL-KEL-KMVD-50-AICS-11-540,Kozhikode,Vellimadukunnu,11.29298116,75.82259886,AI Camera
+KL-KEL-KMVD-50-AICS-11-541,Kozhikode,Kunnamangalam,11.30416061,75.87206081,AI Camera
+KL-KEL-KMVD-50-AICS-11-542,Kozhikode,Pavangad,11.30808382,75.75856917,AI Camera
+KL-KEL-KMVD-50-AICS-11-543,Kozhikode,Mukkam(Kodiyathur),11.3175814,75.9963532,AI Camera
+KL-KEL-KMVD-50-AICS-11-544,Kozhikode,Kattangal,11.31892735,75.94088629,AI Camera
+KL-KEL-KMVD-50-AICS-11-545,Kozhikode,Poonoor (Actual Location name - Eranhikkal),11.33434521,75.76364893,AI Camera
+KL-KEL-KMVD-50-AICS-11-546,Kozhikode,"Madrasa Bazar, Koduvalli",11.34498229,75.90027664,AI Camera
+KL-KEL-KMVD-50-AICS-11-547,Kozhikode,Puladikkunn Jn(Eranhikkal-Puladikkunn road),11.333988,75.76279,AI Camera
+KL-KEL-KMVD-50-AICS-11-548,Kozhikode,Pantheernkaav(Mankav road),11.230238,75.84634,AI Camera
+KL-KEL-KMVD-50-AICS-11-549,Kozhikode,Puthoormadam(Perumanna pantheernakav road),11.236431,75.867988,AI Camera
+KL-KEL-KMVD-50-AICS-11-550,Kozhikode,Vattakkundungal,11.40199756,75.92799727,AI Camera
+KL-KEL-KMVD-50-AICS-11-551,Kozhikode,Karikkamkulam(Kakkdoi-Eranhipalam road),11.291377,75.789094,AI Camera
+KL-KEL-KMVD-50-AICS-11-552,Kozhikode,Nanmanda,11.4196956,75.8311491,AI Camera
+KL-KEL-KMVD-50-AICS-11-553,Kozhikode,Erakkulam(Vengeri-Balusseri road),11.321614,75.804377,AI Camera
+KL-KEL-KMVD-50-AICS-11-554,Kozhikode,Thazhe Omasseri,11.43596246,75.90234295,AI Camera
+KL-KEL-KMVD-50-AICS-11-555,Kozhikode,Balusseri,11.44783097,75.82591105,AI Camera
+KL-KEL-KMVD-50-AICS-11-556,Kozhikode,Vattoli bazar,11.4478408,75.860113,AI Camera
+KL-KEL-KMVD-50-AICS-11-557,Kozhikode,Ulliyeri,11.44901592,75.77444516,AI Camera
+KL-KEL-KMVD-50-AICS-11-558,Kozhikode,Purakkatteri(Atholi-NH road),11.342558,75.760904,AI Camera
+KL-KEL-KMVD-50-AICS-11-559,Kozhikode,Engapuzha,11.4687164,75.96936498,AI Camera
+KL-KEL-KMVD-50-AICS-11-560,Kozhikode,Korappuzha(Kozhikode city-Vengalam Road),11.359801,75.742052,AI Camera
+KL-KEL-KMVD-50-AICS-11-561,Kozhikode,Naduvanoor,11.48138689,75.77483978,AI Camera
+KL-KEL-KMVD-50-AICS-11-562,Kozhikode,Payyoli Beach road,11.512781,75.612925,AI Camera
+KL-KEL-KMVD-50-AICS-11-563,Kozhikode,Kizhur,11.52179216,75.63378409,AI Camera
+KL-KEL-KMVD-50-AICS-11-564,Kozhikode,Meppayyur,11.52929939,75.70798069,AI Camera
+KL-KEL-KMVD-50-AICS-11-565,Kozhikode,Thiruvangoor(Atholi-Thiruvangoor Jn road),11.383603,75.7383001,AI Camera
+KL-KEL-KMVD-50-AICS-11-566,Kozhikode,Kakkad,11.55271797,75.76314166,AI Camera
+KL-KEL-KMVD-50-AICS-11-567,Kozhikode,Pannimukku,11.56445084,75.72323676,AI Camera
+KL-KEL-KMVD-50-AICS-11-568,Kozhikode,Perambra,11.56537844,75.7557163,AI Camera
+KL-KEL-KMVD-50-AICS-11-569,Kozhikode,Sand Banks Road-Vadakara,11.590646,75.581227,AI Camera
+KL-KEL-KMVD-50-AICS-11-570,Kozhikode,Thiruvallur,11.59062144,75.66995904,AI Camera
+KL-KEL-KMVD-50-AICS-11-571,Kozhikode,2/6 Koothali,11.59225838,75.76677036,AI Camera
+KL-KEL-KMVD-50-AICS-11-572,Kozhikode,Vadakara Old bus stand,11.59650012,75.58919102,AI Camera
+KL-KEL-KMVD-50-AICS-11-573,Kozhikode,Peruvattam Thaazha(Vadakara town road),11.608133,75.580708,AI Camera
+KL-KEL-KMVD-50-AICS-11-574,Kozhikode,Villiappally,11.62397016,75.62692769,AI Camera
+KL-KEL-KMVD-50-AICS-11-575,Kozhikode,"Kuyimbil, Paleri",11.6246159,75.7569538,AI Camera
+KL-KEL-KMVD-50-AICS-11-576,Kozhikode,Cheriyakumbalam,11.64524408,75.75487275,AI Camera
+KL-KEL-KMVD-50-AICS-11-577,Kozhikode,Kuttiadi,11.65139644,75.75019732,AI Camera
+KL-KEL-KMVD-50-AICS-11-578,Kozhikode,Orkkaterry,11.654627,75.6045249,AI Camera
+KL-KEL-KMVD-50-AICS-11-579,Kozhikode,Edacheri,11.6637881,75.62258184,AI Camera
+KL-KEL-KMVD-50-AICS-11-580,Kozhikode,"Paikkalangadi, Thottilpalam",11.6716551,75.7700029,AI Camera
+KL-KEL-KMVD-50-AICS-11-581,Kozhikode,Kappad(Thiruvangoor-Kappad beach road),11.380664,75.725784,AI Camera
+KL-KEL-KMVD-50-AICS-11-582,Kozhikode,Kakkattil,11.67859051,75.7006596,AI Camera
+KL-KEL-KMVD-50-AICS-11-583,Kozhikode,Meppayil(Meppayil-Vadakara town road),11.589991,75.604843,AI Camera
+KL-KEL-KMVD-50-AICS-11-584,Kozhikode,Nadapuram,11.6862882,75.6557102,AI Camera
+KL-KEL-KMVD-50-AICS-11-585,Kozhikode,Kallachi,11.6883248,75.6705233,AI Camera
+KL-KEL-KMVD-50-AICS-11-586,Kozhikode,"Chettuvetti, Nadapuram",11.689381,75.6509827,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-12-587,Wayanad,Lakkidi,11.5178294,76.021165,AI Camera
+KL-KEL-KMVD-50-AICS-12-588,Wayanad,"Chithragiri, Vaduvanchal",11.5542364,76.2238312,AI Camera
+KL-KEL-KMVD-50-AICS-12-589,Wayanad,Vaduvanchal,11.55987423,76.22426637,AI Camera
+KL-KEL-KMVD-50-AICS-12-590,Wayanad,Meppadi,11.562278,76.12548396,AI Camera
+KL-KEL-KMVD-50-AICS-12-591,Wayanad,Kalpetta,11.60751815,76.08342256,AI Camera
+KL-KEL-KMVD-50-AICS-12-592,Wayanad,Ambalavayal,11.62328183,76.21098809,AI Camera
+KL-KEL-KMVD-50-AICS-12-594,Wayanad,Muttil,11.64118895,76.10740084,AI Camera
+KL-KEL-KMVD-50-AICS-12-595,Wayanad,Sulthan Bathery,11.658445,76.2475233,AI Camera
+KL-KEL-KMVD-50-PVDS-12-596,Wayanad,Meenangadi,11.66019721,76.16357099,PVDS
+KL-KEL-KMVD-50-AICS-12-597,Wayanad,Kaippanchery,11.66367121,76.26815803,AI Camera
+KL-KEL-KMVD-50-AICS-12-598,Wayanad,"Kottakunnu, Sulthan Bathery",11.6683653,76.26938079,AI Camera
+KL-KEL-KMVD-50-AICS-12-599,Wayanad,Kambalakkad,11.66999784,76.07935667,AI Camera
+KL-KEL-KMVD-50-AICS-12-600,Wayanad,KSRTC Dipo,11.67269387,76.25895303,AI Camera
+KL-KEL-KMVD-50-AICS-12-601,Wayanad,Padinjarathara 2,11.67364574,75.971324,AI Camera
+KL-KEL-KMVD-50-AICS-12-602,Wayanad,"Kambalakkad, Pallimukku",11.68378342,76.07699499,AI Camera
+KL-KEL-KMVD-50-AICS-12-603,Wayanad,Padinjarathara,11.6840637,75.9745167,AI Camera
+KL-KEL-KMVD-50-AICS-12-604,Wayanad,Kenichira,11.72376873,76.15087073,AI Camera
+KL-KEL-KMVD-50-AICS-12-605,Wayanad,"Karimbummal, Panamaram",11.73164312,76.07334383,AI Camera
+KL-KEL-KMVD-50-AICS-12-606,Wayanad,"Pazhanchana, Vellamunda",11.73184697,75.95158562,AI Camera
+KL-KEL-KMVD-50-AICS-12-607,Wayanad,Tharuvana,11.73802794,75.97807243,AI Camera
+KL-KEL-KMVD-50-AICS-12-608,Wayanad,Nadavayal,11.73919065,76.12094164,AI Camera
+KL-KEL-KMVD-50-PVDS-12-609,Wayanad,Panamaram,11.73928257,76.07274737,PVDS
+KL-KEL-KMVD-50-AICS-12-610,Wayanad,Panamaram bridge,11.74134701,76.07205402,AI Camera
+KL-KEL-KMVD-50-AICS-12-611,Wayanad,"Payode, Manthavady",11.7909933,76.00201048,AI Camera
+KL-KEL-KMVD-50-AICS-12-612,Wayanad,"Thalassery road, Manthavady",11.81314175,75.99465284,AI Camera
+KL-KEL-KMVD-50-AICS-12-613,Wayanad,"Vayalkarara, Kattikulam",11.84219716,76.05726499,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-13-614,Kannur,"Parimadam, new Mahe",11.70909349,75.52850235,AI Camera
+KL-KEL-KMVD-50-PVDS-13-615,Kannur,New bus stand Thalassery - 1,11.74923402,75.494732,PVDS
+KL-KEL-KMVD-50-PVDS-13-616,Kannur,New bus stand Thalassery - 2,11.74999129,75.49454123,PVDS
+KL-KEL-KMVD-50-AICS-13-617,Kannur,Koduvalli gate NH( Kannur Kozhikode road),11.76647522,75.47800139,AI Camera
+KL-KEL-KMVD-50-AICS-13-618,Kannur,Koduvalli gate NH(Kozhikode Kannur road),11.7678483,75.4779841,AI Camera
+KL-KEL-KMVD-50-AICS-13-619,Kannur,Koothuparmba (Iritty Thalassery road),11.83035301,75.56623098,AI Camera
+KL-KEL-KMVD-50-AICS-13-620,Kannur,Thottada,11.85320999,75.41445047,AI Camera
+KL-KEL-KMVD-50-AICS-13-621,Kannur,Thayil,11.85766526,75.39058451,AI Camera
+KL-KEL-KMVD-50-AICS-13-622,Kannur,Mele chovva(Mattannur Kannur road),11.87158481,75.3963422,AI Camera
+KL-KEL-KMVD-50-AICS-13-623,Kannur,Mele chovva,11.8716127,75.3970265,AI Camera
+KL-KEL-KMVD-50-AICS-13-624,Kannur,Muneeswaram Kovil Road,11.87379524,75.36486514,AI Camera
+KL-KEL-KMVD-50-AICS-13-625,Kannur,chalad(kannur valapattanam road),11.8804855,75.3549242,AI Camera
+KL-KEL-KMVD-50-AICS-13-626,Kannur,Ancharakandi (airport Kannur town road),11.88055768,75.50654981,AI Camera
+KL-KEL-KMVD-50-AICS-13-627,Kannur,Thalap,11.88557714,75.37240349,AI Camera
+KL-KEL-KMVD-50-AICS-13-628,Kannur,Chakkarakkal (Kannur Mattannur road),11.88900564,75.4749554,AI Camera
+KL-KEL-KMVD-50-AICS-13-629,Kannur,Uravachal (Thalasseri Mattannur road),11.89602196,75.58486227,AI Camera
+KL-KEL-KMVD-50-AICS-13-630,Kannur,Chathurakinar (Mattannur Kannur town road),11.90020259,75.41772611,AI Camera
+KL-KEL-KMVD-50-AICS-13-631,Kannur,Puthiyatheru (Kannur Kasargod road),11.91592655,75.36036037,AI Camera
+KL-KEL-KMVD-50-AICS-13-632,Kannur,Mattannoor hospital jn(Thalasseri Iritty road),11.92877602,75.57223409,AI Camera
+KL-KEL-KMVD-50-AICS-13-633,Kannur,Chalode (Mattannur Kannur road),11.9295082,75.50415225,AI Camera
+KL-KEL-KMVD-50-AICS-13-634,Kannur,Mattannur (Mattannur airport road),11.9312353,75.57009403,AI Camera
+KL-KEL-KMVD-50-AICS-13-635,Kannur,"Mattool south,(pazhayangadi matool road)",11.9547775,75.2976538,AI Camera
+KL-KEL-KMVD-50-AICS-13-636,Kannur,Mangattuparamb,11.984387,75.365851,AI Camera
+KL-KEL-KMVD-50-AICS-13-637,Kannur,Keeriyad,11.926778,75.358927,AI Camera
+KL-KEL-KMVD-50-AICS-13-638,Kannur,Punnad(Iritty Kannur road),11.96402644,75.65558575,AI Camera
+KL-KEL-KMVD-50-AICS-13-639,Kannur,Kambil,11.96672483,75.3966976,AI Camera
+KL-KEL-KMVD-50-AICS-13-640,Kannur,Payancherimukku (Paiancheri junction Peravoor road),11.9828667,75.67658879,AI Camera
+KL-KEL-KMVD-50-AICS-13-641,Kannur,Payincheri ( Peravoor Payincheri junction),11.98308513,75.67637488,AI Camera
+KL-KEL-KMVD-50-AICS-13-642,Kannur,Iritty (Thalassery Iritty bridge),11.9877967,75.67697503,AI Camera
+KL-KEL-KMVD-50-AICS-13-643,Kannur,Iritty (Iritty bridge Thalassery road),11.98799086,75.67668971,AI Camera
+KL-KEL-KMVD-50-AICS-13-644,Kannur,Irikkur (Irrikkur Thaliparamb road),11.99126589,75.54867458,AI Camera
+KL-KEL-KMVD-50-AICS-13-645,Kannur,Mayyil,11.99411683,75.44931315,AI Camera
+KL-KEL-KMVD-50-AICS-13-646,Kannur,Puthiyangadi (Chootad beach Mattool road),12.02018846,75.24525136,AI Camera
+KL-KEL-KMVD-50-AICS-13-647,Kannur,"Pazhangadi - 2,(Payyannur Kannur road)",12.02449834,75.26678145,AI Camera
+KL-KEL-KMVD-50-AICS-13-648,Kannur,"Pazhayangadi,(Kannur Payyannur road )",12.02468165,75.26669361,AI Camera
+KL-KEL-KMVD-50-AICS-13-649,Kannur,Madayipara,12.03060184,75.2597554,AI Camera
+KL-KEL-KMVD-50-AICS-13-650,Kannur,Vallithode (Mysore Iritty road),12.03487057,75.71359556,AI Camera
+KL-KEL-KMVD-50-AICS-13-651,Kannur,Ulikkal (Ulikkal jn Iritty road),12.03779876,75.66545494,AI Camera
+KL-KEL-KMVD-50-AICS-13-652,Kannur,Ulikkal (Payyavoor Ulikkal jn),12.04054035,75.66080768,AI Camera
+KL-KEL-KMVD-50-AICS-13-653,Kannur,Manna (Thaliparamba Iritty road),12.04059478,75.36216885,AI Camera
+KL-KEL-KMVD-50-AICS-13-654,Kannur,"Chiravakku, Thaliparambu (Payyannur Kannur road)",12.04192999,75.35571747,AI Camera
+KL-KEL-KMVD-50-AICS-13-655,Kannur,Sreekandapuram (Thaliparamb Sreekandapuram road),12.04491385,75.50673019,AI Camera
+KL-KEL-KMVD-50-AICS-13-656,Kannur,Payyavoor (Sreekandapuram Payyavoor road),12.0600183,75.5780667,AI Camera
+KL-KEL-KMVD-50-AICS-13-657,Kannur,Payyavoor Town,12.06026019,75.58161344,AI Camera
+KL-KEL-KMVD-50-AICS-13-658,Kannur,"Keloth, Payyannur",12.10034562,75.19593224,AI Camera
+KL-KEL-KMVD-50-AICS-13-659,Kannur,Sumangali cinemas Payyannur,12.11148396,75.21037426,AI Camera
+KL-KEL-KMVD-50-AICS-13-660,Kannur,Vankulath Vayal,11.920861,75.334701,AI Camera
+KL-KEL-KMVD-50-AICS-13-661,Kannur,Kannur City Hospital,11.862681,75.36932,AI Camera
+KL-KEL-KMVD-50-AICS-13-662,Kannur,Alakode,12.18591996,75.46613529,AI Camera
+KL-KEL-KMVD-50-AICS-13-663,Kannur,Cherupuzha,12.27169997,75.36079891,AI Camera
+,,,,,
+KL-KEL-KMVD-50-AICS-14-664,Kasaragod,Thrikkaripur,12.14323243,75.17746221,AI Camera
+KL-KEL-KMVD-50-AICS-14-665,Kasaragod,Thankayam mukk,12.14394763,75.1823616,AI Camera
+KL-KEL-KMVD-50-AICS-14-666,Kasaragod,Padanna,12.17771466,75.1469665,AI Camera
+KL-KEL-KMVD-50-AICS-14-667,Kasaragod,Kalikadavu,12.19022422,75.16905248,AI Camera
+KL-KEL-KMVD-50-PVDS-14-668,Kasaragod,Cheruvathur,12.21642417,75.16162947,PVDS
+KL-KEL-KMVD-50-AICS-14-669,Kasaragod,Cheemeni,12.23568571,75.22546336,AI Camera
+KL-KEL-KMVD-50-AICS-14-670,Kasaragod,Neeleshwaram,12.25556016,75.13043303,AI Camera
+KL-KEL-KMVD-50-AICS-14-671,Kasaragod,Panathur,12.457685,75.353556,AI Camera
+KL-KEL-KMVD-50-AICS-14-672,Kasaragod,Choyyomkode,12.28771594,75.19208327,AI Camera
+KL-KEL-KMVD-50-AICS-14-673,Kasaragod,Puthiyakotta,12.3117908,75.09394225,AI Camera
+KL-KEL-KMVD-50-PVDS-14-674,Kasaragod,Kanjangad 1,12.32124155,75.08675158,PVDS
+KL-KEL-KMVD-50-AICS-14-676,Kasaragod,Athinhal,12.33766228,75.07849306,AI Camera
+KL-KEL-KMVD-50-AICS-14-677,Kasaragod,Kalanad Jn-1,12.451513,75.021879,AI Camera
+KL-KEL-KMVD-50-AICS-14-678,Kasaragod,Madiyan,12.34849128,75.07358294,AI Camera
+KL-KEL-KMVD-50-AICS-14-679,Kasaragod,Chithari,12.35539071,75.06967966,AI Camera
+KL-KEL-KMVD-50-AICS-14-680,Kasaragod,Pallikere,12.38709675,75.04457485,AI Camera
+KL-KEL-KMVD-50-AICS-14-681,Kasaragod,Bakel bridge,12.40117665,75.03007013,AI Camera
+KL-KEL-KMVD-50-AICS-14-682,Kasaragod,Odayamchal,12.40159022,75.20389069,AI Camera
+KL-KEL-KMVD-50-AICS-14-683,Kasaragod,Kalanad Jn-2,12.449719,75.022649,AI Camera
+KL-KEL-KMVD-50-AICS-14-684,Kasaragod,Palakkunnu,12.42276999,75.02257839,AI Camera
+KL-KEL-KMVD-50-AICS-14-685,Kasaragod,Kundamkuzhi,12.4570792,75.1404915,AI Camera
+KL-KEL-KMVD-50-AICS-14-686,Kasaragod,Meleparmba,12.469445,75.00856787,AI Camera
+KL-KEL-KMVD-50-AICS-14-687,Kasaragod,Kuttikol,12.47704145,75.21122653,AI Camera
+KL-KEL-KMVD-50-AICS-14-688,Kasaragod,"Madiyan Jn, Madiyan-Kulom road",12.350334,75.074037,AI Camera
+KL-KEL-KMVD-50-AICS-14-689,Kasaragod,"Old bus stand Jn, MG Road",12.50090506,74.98973675,AI Camera
+KL-KEL-KMVD-50-AICS-14-690,Kasaragod,Press club Jn,12.50469352,74.99376543,AI Camera
+KL-KEL-KMVD-50-AICS-14-691,Kasaragod,Kottacheri ROB-Beach road,12.322836,75.081675,AI Camera
+KL-KEL-KMVD-50-AICS-14-692,Kasaragod,Bovikanam,12.50737723,75.09518612,AI Camera
+KL-KEL-KMVD-50-AICS-14-693,Kasaragod,Cherkkala Jn,12.50888616,75.05508341,AI Camera
+KL-KEL-KMVD-50-AICS-14-694,Kasaragod,Cherkkala,12.50892446,75.05521618,AI Camera
+KL-KEL-KMVD-50-AICS-14-695,Kasaragod,Hosdurg(Puthyakotta),12.31446,75.091357,AI Camera
+KL-KEL-KMVD-50-AICS-14-696,Kasaragod,"TB road, Kanhangad",12.31429,75.091028,AI Camera
+KL-KEL-KMVD-50-AICS-14-697,Kasaragod,Ballath(Chammattam vayal Jn),12.320304,75.109091,AI Camera
+KL-KEL-KMVD-50-AICS-14-698,Kasaragod,Kottapuram(Nileswaram Rd),12.249084,75.126109,AI Camera
+KL-KEL-KMVD-50-AICS-14-699,Kasaragod,Mulleria,12.54827352,75.1652015,AI Camera
+KL-KEL-KMVD-50-AICS-14-700,Kasaragod,Nadakkav-Udinar Rd,12.160854,75.171329,AI Camera
+KL-KEL-KMVD-50-AICS-14-701,Kasaragod,Seethangoli,12.58723766,75.00167828,AI Camera
+KL-KEL-KMVD-50-AICS-14-702,Kasaragod,Badiadka 2,12.58895489,75.07359032,AI Camera
+KL-KEL-KMVD-50-AICS-14-703,Kasaragod,Badiadka 1,12.59152581,75.07275179,AI Camera
+KL-KEL-KMVD-50-AICS-14-704,Kasaragod,Kumbla 2,12.59271359,74.9465324,AI Camera
+KL-KEL-KMVD-50-AICS-14-705,Kasaragod,Kumbla 1,12.59285331,74.94579747,AI Camera
+KL-KEL-KMVD-50-AICS-14-706,Kasaragod,Bandiyod,12.640146,74.929356,AI Camera
+KL-KEL-KMVD-50-AICS-14-707,Kasaragod,"Uppala-Bekur Road, Kaikumba",12.664898,74.921597,AI Camera
+KL-KEL-KMVD-50-AICS-14-708,Kasaragod,Perla,12.637022,75.102964,AI Camera
+KL-KEL-KMVD-50-AICS-14-709,Kasaragod,Hosangadi,12.70589173,74.90515564,AI Camera
+KL-KEL-KMVD-50-AICS-14-710,Kasaragod,Bandadka,12.498763,75.267684,AI Camera
