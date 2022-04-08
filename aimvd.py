@@ -27,7 +27,9 @@ for i in range(0,len(df1)):
         <h3 style="color:red;"> Location: {df1.iloc[i]['Location']}</h3>
         <h4> Type:  {df1.iloc[i]['Type']}</h4>
         
-        <p>Made with ❤️ <a href="https://www.arungopi.gitlab.io">Arun Gopinath</a></p>
+        <p>Made with ❤️ <a href="https://arungopi.gitlab.io">Arun Gopinath.</a> 
+        <br> Take a look at <a href="https://github.com/Open-Oven/mvd_kerala_ai">Source code. </br> 
+        </p>
         """
     iframe = fo.IFrame(html=html, width=200, height=200)
     popup = fo.Popup(iframe, max_width=2650)
